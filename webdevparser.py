@@ -11,12 +11,7 @@ from io import BytesIO
 
 reportdate = time.strftime('%Y-%m-%d')
 
-
 app = Flask(__name__)
-
-def transform(text_file_contents):
-    print(text_file_contents) 
-    return text_file_contents.replace("d2020", "DEV2020")
 
 def getEmplList(df):
     employees = df['EmployeesInvolved'].unique()
