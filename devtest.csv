@@ -1,11 +1,11 @@
 ﻿Center,ReferenceNumber,DateCreated,DaysOpen,Status,DateClosed,ImpactCategory,ErrorCode,RootCause,EmployeesInvolved,Description,AssociatedDeviationCAPANumber
 35,d2020-123456,01-10-20,6,OPEN,,Minor,SHIPMENT-LABEL CODE INCORRECT,Unknown,"Jane Doe
 Susan Smith
-",On 01OCT20; Quality Assurance was informed of missing initials and date on Product Release Record for Plasma Shipment 47720-0046 on 16SEP20. NC-PROCESS-017 Product Preparation and Release of Plasma was not followed.,Unknown
+",On 01OCT20; Quality Assurance was informed of missing initials and date on Product Release Record.,Unknown
 35,d2020-123457,02-10-20,5,OPEN,,Minor,INCOMPLETE/INCORRECT/MISSING RECORD EXCEPTION DOCUMENTATION,Unknown,"Rick Smith
-",On 01OCT20; Restick Collection Exception was missing for UCN 4770070693 Restick Phlebotomist and Needle Usage were present on Worksheet. NC-COLLEVENT-009 Donor Restick was not followed.,Unknown
-35,d2020-123458,02-10-20,5,OPEN,,Major,DEVIATION MGMT- TREND - MINOR DEVIATION RATE,Process Control,Facilities Management,"On 02Oct20 Quality Assurance Technician AMC discovered that for the month of September 2020, Maplewood Center is trending in Minor Deviations with 2.9% Minor Deviation Rate for the month. This is above the threshold of 1.7% and therefore according to SOP NC-QA-009 Trending Unexpected Events a major deviation was initiated.",20-05148
+",On 01OCT20; Report Collection Exception was missing.,Unknown
+35,d2020-123458,02-10-20,5,OPEN,,Major,DEVIATION MGMT- TREND - MINOR DEVIATION RATE,Process Control,Facilities Management,"On 02Oct20 Quality Assurance discovered that for the month of September 2020, trending in Minor Deviations with 2.9% Minor Deviation Rate for the month.",20-05148
 35,d2020-123459,05-10-20,2,OPEN,,Minor,DATA CHANGE- FOLLOW UP NOT PERFOMED WITHIN 7 DAYS,Unknown,"Jane Doe
-",On 05Oct20 QAT AMC discovered Center Director TJC did not document a weekly follow up within 7 days for Data Change 480724.  The form was initiated on 25Sep20 and weekly follow up was not documented until 05Oct20.  This is in violation of SOP NC-BASS-001 Data Change Request.,Unknown
+",On 05Oct20 discovered did not document a weekly follow up within 7 days for Data Change.,Unknown
 35,d2020-123460,05-10-20,2,OPEN,,Minor,SUPPLIES- INCORRECT SUPPLY INFORMATION ENTRY,Unknown,"John Doe
-","On 05Oct20, QAS MES discovered that on 03Oct20, QAT AMC consumed Baxter Saline Lot # V19L08B by mistake violating SOP NC-SUPPMGMT-002 Receiving and Transferring of Supplies.",Unknown
+","On 05Oct20, discovered that on 03Oct20, a mistake violating SOP Receiving and Transferring of Supplies.",Unknown
