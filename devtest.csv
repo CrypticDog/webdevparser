@@ -1,11 +1,11 @@
 ﻿Center,ReferenceNumber,DateCreated,DaysOpen,Status,DateClosed,ImpactCategory,ErrorCode,RootCause,EmployeesInvolved,Description,AssociatedDeviationCAPANumber
 35,d2020-123456,01-10-20,6,OPEN,,Minor,SHIPMENT-LABEL CODE INCORRECT,Unknown,"Jane Doe
 Susan Smith
-",On 01OCT20; Quality Assurance was informed of missing initials.,Unknown
+",On 01OCT20; Quality Assurance was informed of missing initials and date on Product Release Record.,Unknown
 35,d2020-123457,02-10-20,5,OPEN,,Minor,INCOMPLETE/INCORRECT/MISSING RECORD EXCEPTION DOCUMENTATION,Unknown,"Rick Smith
 ",On 01OCT20; Report Collection Exception was missing.,Unknown
-35,d2020-123458,02-10-20,5,OPEN,,Major,DEVIATION MGMT- TREND - MINOR DEVIATION RATE,Process Control,Facilities Management,"On 02Oct20 Quality Assurance discovered that for the month of September 2020, negative trending in deviationstion Rate for the month.,20-05148
+35,d2020-123458,02-10-20,5,OPEN,,Major,DEVIATION MGMT- TREND - MINOR DEVIATION RATE,Process Control,Facilities Management,"On 02Oct20 Quality Assurance discovered that for the month of September 2020, trending in Minor Deviations with 2.9% Minor Deviation Rate for the month.",20-05148
 35,d2020-123459,05-10-20,2,OPEN,,Minor,DATA CHANGE- FOLLOW UP NOT PERFOMED WITHIN 7 DAYS,Unknown,"Jane Doe
-",On 05Oct20 Quality Assurance did not follow up within 7 days for Data Change 480724.,Unknown
+",On 05Oct20 discovered did not document a weekly follow up within 7 days for Data Change.,Unknown
 35,d2020-123460,05-10-20,2,OPEN,,Minor,SUPPLIES- INCORRECT SUPPLY INFORMATION ENTRY,Unknown,"John Doe
-","On 05Oct20, discovered a mistake violating SOP Receiving and Transferring of Supplies.",Unknown
+","On 05Oct20, discovered that on 03Oct20, a mistake violating SOP Receiving and Transferring of Supplies.",Unknown
